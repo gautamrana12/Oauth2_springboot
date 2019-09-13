@@ -16,6 +16,6 @@ public class UserManagementServiceApplication {
 
 	@RequestMapping(value = "/")
 	public String index() {
-		return "Minervaa!!!";
+		return "Completed Successfully!!!";
 	}
 }
